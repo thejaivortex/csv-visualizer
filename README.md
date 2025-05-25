@@ -23,6 +23,7 @@ A Next.js application for uploading CSV files and creating interactive multi-com
 ## Getting Started
 
 npm install
+
 npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
