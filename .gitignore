@@ -39,3 +39,24 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ESLint cache
+.eslintcache
+
+# Turbopack (since you're using it)
+.turbo/
+
+# OS generated files
+Thumbs.db
+
+# CSV files (optional - uncomment if you don't want to commit sample CSV files)
+# *.csv
+
+# Chart exports (optional - uncomment if you don't want to commit exported PNG files)
+# *.png
