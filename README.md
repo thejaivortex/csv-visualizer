@@ -20,6 +20,11 @@ A Next.js application for uploading CSV files and creating interactive multi-com
 - Recharts for visualization
 - Papa Parse for CSV processing
 
+#Project Structure
+
+![Folder directory](https://github.com/user-attachments/assets/cb038f3a-20a2-46e6-86cb-b65050436a17)
+
+
 ## Getting Started
 
 npm install
